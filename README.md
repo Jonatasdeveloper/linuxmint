@@ -4,3 +4,4 @@
   2. Uma máquina Linux Mint
 
 <h3>** Em meu cenário utilizo active diretory logo tenho que realizar todas as instações pelo usuário administrador no linux**
+<h4> Seguir tutorial conforme o arquivo PDF
