@@ -1,3 +1,3 @@
-# linuxmint
+# <h1>linuxmint<h1>
 Progamas,comandos e etc..
-<h1>Progamas Funcionando em linux<h1>
+<h2>Progamas Funcionando em linux<h2>
